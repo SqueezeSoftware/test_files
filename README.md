@@ -27,6 +27,13 @@ PNG
 * Bit Depth: 24
 * Dimensions: 768x512
 
+## MET - The Metropolitan Museum of Art 
+
+* Format: JPG
+* Bit Depth: 24
+* DPI: 96, 150, 300
+* Subject: Photographs of art
+
 ## PngSuite
 
 * Format: PNG
