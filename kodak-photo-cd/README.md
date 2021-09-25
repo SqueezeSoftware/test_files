@@ -1,12 +1,16 @@
 # Kodak Photo CD
 
-These are images derrived from the Kodak Photo CD Photo Sampler, which contains images that are free to use for any purpose associated with electronic imaging.See `RIGHTS.USE` for full details. 
+These are images derrived from the Kodak Photo CD Photo Sampler, which contains images that are free to use for any purpose associated with electronic imaging. See `RIGHTS.USE` for full details. 
 
 PNG were downloaded from https://www.cs.albany.edu/~xypan/research/snr/Kodak.html which attributes http://r0k.us/graphics/kodak/. 
 
 Of note is this disclaimer:  
 ```
-The imagery with which I began was not in PhotoCD format, but 24-bit Sun Raster. For a year this page had a link to the source ftp address at Rensellaer Polytechnic Institute. When Rensellaer stopped their ftp distribution, I removed the link.  My conversion into PNG was lossless; the original conversion from PhotoCD was not, nor could it be.  "Lossless" on this page is used in comparison to what a GIF or JPEG conversion would have done to the data."
+The imagery with which I began was not in PhotoCD format, but 24-bit Sun Raster. 
+For a year this page had a link to the source ftp address at Rensellaer Polytechnic Institute. 
+When Rensellaer stopped their ftp distribution, I removed the link.  
+My conversion into PNG was lossless; the original conversion from PhotoCD was not, nor could it be.  
+"Lossless" on this page is used in comparison to what a GIF or JPEG conversion would have done to the data."
 ```
 BMP, TIFF, PCB wer downloaded from: https://www.math.purdue.edu/%7Elucier/PHOTO_CD/. See `README.txt` for full details. 
 ```
