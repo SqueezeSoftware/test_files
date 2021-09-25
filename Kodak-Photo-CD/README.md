@@ -10,7 +10,7 @@ When Rensellaer stopped their ftp distribution, I removed the link.
 My conversion into PNG was lossless; the original conversion from PhotoCD was not, nor could it be.  
 "Lossless" on this page is used in comparison to what a GIF or JPEG conversion would have done to the data."
 ```
-BMP, TIFF, PCB were downloaded from: https://www.math.purdue.edu/%7Elucier/PHOTO_CD/. See `README.txt` for full details. 
+BMP, TIFF, PCD were downloaded from: https://www.math.purdue.edu/%7Elucier/PHOTO_CD/. See `README.txt` for full details. 
 ```
 (a) BMP_IMAGES --- from
     http://scien.stanford.edu/pages/labsite/scien_test_images_videos.php
