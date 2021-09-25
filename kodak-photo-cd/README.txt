@@ -1,6 +1,3 @@
-BMP, TIFF, PCB from: https://www.math.purdue.edu/%7Elucier/PHOTO_CD/
-PNG from: 
-
 This directory contains the following:
 
 1.  The contents of the Kodak Photo CD Photo Sampler.  This includes:
