@@ -3,6 +3,7 @@
 * Format: JPG
 * Bit Depth: 24
 * DPI: 96, 150, 300
+* Dimensions: 1000 to 3000
 * Subject: Photographs of art
 
 From: https://www.metmuseum.org/about-the-met/policies-and-documents/image-resources
