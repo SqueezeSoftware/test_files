@@ -1,5 +1,10 @@
 # TESTIMAGE.org Archive Links
 
+* Subject: Highly technical test images
+* Format: PNG, JPG
+* Bit Depth: 8, 16
+* Dimensions: 100px to 2400px
+
 [TESTIMAGES.org](https://www.testimages.org) maintains a massive set of test images that are free to use under a Creative Commons license (see `LICENCE`)
 
  A full description of these archives is located in `README.txt`. Most of the archives are 1GB-2GB, so it's impractical to download them all. The archives are hosted on [SourceForge](https://sourceforge.net/projects/testimages). Below are links to primary folders.
