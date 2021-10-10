@@ -1,34 +1,53 @@
-# Test Files
+# Test Images
 
-This repository contains files and links to files that are free to use for compression and conversion testing. Each folder contains relevant licensing and use documentation. 
+A collection of public domain images for testing file conversions. See each directory's `README` for licensing details. 
 
-## Kodak Photo CD 
+## FileSqueeze Limited Palette Test Images
 
-* Format: BMP, PCD, PNG, TIF
+* Subject: Gradients, bars, geometric shapes, fonts
+* Color: sRGB, 12-color + Black/White
+* Resolutions: 72dpi, 150dpi, 300dpi
+* Dimensions: 1800px - 10000px
+* Design App: Adobe Illustrator CC
+
+## publicdomainvectors.org
+
+* Subject: Bright, modern vector art
+* Format: JPG, PNG, SVG
+* Bit Depth: 8, 24, 32
+* Dimensions: 1800 to 10000 
+
+## Unsplash
+
+* Subject: Modern photography, various
+* Format: JPG
 * Bit Depth: 24
-* PNG Dimensions: 768x512
-* BMP, TIF Dimensions: 3072x2048
-* PCD Dimensions: 192x128, 384x256, 768x512, 1536x1024, 3072x2048
-* Subject: Outdoor photography, portraits
+* Dimensions: 1800px to 6000px
 
-## MET - The Metropolitan Museum of Art 
+## TESTIMAGE.org
 
+* Subject: Highly technical test images
+* Format: PNG, JPG
+* Bit Depth: 8, 16
+* Dimensions: 100px to 2400px
+
+## The Metropolitan Museum of Art 
+
+* Subject: Photographs of art of various media
 * Format: JPG
 * Bit Depth: 24
 * DPI: 96, 150, 300
-* Dimensions: 1000 to 3000
-* Subject: Photographs of art
 
 ## PngSuite
 
+* Subject: Small, limited-palette gradients and bars
 * Format: PNG
 * Bit Depth: 0, 1, 2, 4, 8, 16, 24, 48, 64
-* Dimensions: 0x0 to 40x40
-* Subject: 
+* Dimensions: 0px to 48px
 
-## TESTIMAGES
+## Kodak Photo CD Photo Sampler
 
-* Format:
-* Bit Depth:
-* Dimensions:
-* Subject: 
+* Subject: Nature and portraits circa 1990s
+* Formats: BPM, PCD, PNG, TIFF
+* Bit Depth: 24
+* Dimensions: 768px to 3072px
