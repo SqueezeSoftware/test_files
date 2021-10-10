@@ -1,5 +1,6 @@
 # publicdomainvectors.org
 
+* Subject: Bright, modern vector art
 * Format: JPG, PNG, SVG
 * Bit Depth: 8, 24, 32
 * Dimensions: 1800 to 10000 
