@@ -1,9 +1,8 @@
-# Test Files
+# Test Images & Files
 
 ## Test Files
 
 * NATO - JSON and CSV
-
 
 ## Test Images
 

@@ -1,4 +1,4 @@
-# FileSqueeze Limited Palette Test Images
+# wcDogg Limited Palette Test Images
 
 * Subject: Gradients, bars, geometric shapes, fonts
 * Color: sRGB, 12-color + Black/White
@@ -8,9 +8,9 @@
 
 ## License
 
-FileSqueeze test images are provided under the [Creative Commons Deed CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+wcDogg test images are provided under the [Creative Commons Deed CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
-In short, you can do anything you want with these images - a link back to [FileSqueeze](https://github.com/SqueezeSoftware) is always appreciated. 
+In short, you can do anything you want with these images - a link back to [wcDogg](https://github.com/wcDogg) is always appreciated. 
 
 ## Files
 
